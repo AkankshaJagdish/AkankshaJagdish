@@ -17,8 +17,6 @@ A multi-agent orchestration system for incident analysis and command generation.
 - Runtime observability for tool calls, retries, fallbacks, token usage, and latency
 - Python • smolagents • LiteLLM • OpenRouter
 
-[View project →](https://github.com/AkankshaJagdish/Multi-Agent-Emergency-Command-Swarm)
-
 ### Agentic Development
 At Zewel360, I optimized **agent skills and Claude-based coding workflows through Roo Code**, reducing company LLM token consumption by **~50%**.
 
@@ -29,7 +27,6 @@ Trained and deployed **YOLOv8n** and **TorchReID OSNet** systems, including real
 
 | Project | Focus |
 | --- | --- |
-| [Multi-Agent Emergency Command Swarm](https://github.com/AkankshaJagdish/Multi-Agent-Emergency-Command-Swarm) | Multi-agent orchestration, MCP, tool calling |
 | [Hybrid Enterprise RAG System](https://github.com/AkankshaJagdish/Hybrid-Enterprise-RAG-System) | .NET + FastAPI + FAISS + RAG |
 | [PerfectResume](https://github.com/AkankshaJagdish/PerfectResume) | RAG product, FastAPI, PostgreSQL, Gemini |
 | [Gloved vs Ungloved Hand Detection](https://github.com/AkankshaJagdish/Gloved-vs-Ungloved-Hand-Detection) | YOLOv8, evaluation, computer vision |
